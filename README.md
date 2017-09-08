@@ -1,6 +1,8 @@
 # databrowser-redis
 Adapter to read config and change requests from the Sesam Databrowser REDIS backend as n-triples (RDF)
 
+[![Build Status](https://travis-ci.org/sesam-community/databrowser-redis.svg?branch=master)](https://travis-ci.org/sesam-community/databrowser-redis)
+
 The service takes the following parameters:
 
 `host = Hostname or IP address for REDIS server (Default = localhost)`
